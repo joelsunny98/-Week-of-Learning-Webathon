@@ -1,0 +1,109 @@
+
+.header{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 60px;
+    text-align: center;
+    padding-top: 15px;
+}
+.header p{
+    font-size: 40px;
+    margin-top: 5px;
+}
+body {
+    background-image: url(Background.jpg);
+}
+.f15pt {
+    font-size: 15pt;
+    
+}
+.content {
+    background: #610bb1;
+    padding: 10px;
+    font-size: 15pt;
+    color: #fefefe;
+    width: 100%;
+    font-family: 'Courier New', Courier, monospace
+}
+.voilet0 {
+    background-color: #333;
+    
+}
+.voilet1 {
+    background-color: rgb(0, 2, 7);
+    text-align: center;
+    opacity: 0.8;
+}
+.voilet2 {
+    background-color: #333;
+}
+textarea {
+    width: 100%;
+    min-height: 100px;
+}
+.encrypt {
+    font-size: 24pt;
+    background-color: rgb(9, 8, 107);
+    border-radius: 3px;
+    border: 10px solid #000000;
+    color: #ffffff;
+    padding: 7px;
+    margin: 5px;
+    float: right;
+    font-family: 'Courier New', Courier, monospace;
+}
+.encrypt:hover {
+    background-color: #333;
+}
+ 
+.center {
+    width: 50%;
+    margin: auto;
+}
+#passcode {
+    border-radius: 3px;
+    padding: 6px;
+    border: 0px;
+    outline: none;
+}
+#passcode:focus {
+    border: 2px solid #530c96;
+}
+.top-relative {
+    top: 50px;
+    position: relative;
+}
+.top-bar {
+    width: 100%;
+    position: fixed;
+    z-index: 5;
+    top: 0;
+    left: 0;
+    background-color: #fefefe;
+	padding: 5px;
+	box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
+}
+.ablock {
+	text-decoration: none;
+    color: #7c0abe;
+    font-size: 15pt;
+}
+.h35px {
+	height: 35px;
+}
+.txtbld {
+    font-weight: bold;
+}
+.prb12px {
+	position: relative;
+	bottom: 10px;
+}
+.w35px {
+	width: 35px;
+}
+#originalContent{
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.header{
+    p
+}
